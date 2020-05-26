@@ -8,6 +8,8 @@
 # RRoot,1.1.2030,Created started script
 # RRoot,1.1.2030,Added code to complete assignment 5
 # KOdland,5.25.2020,Modified code to complete assignment 6
+# KOdland,5.25.2020,added function to save data to file
+# KOdland,5.25.2020,added functions to add/remove task
 # ---------------------------------------------------------------------------- #
 
 # Data ---------------------------------------------------------------------- #
